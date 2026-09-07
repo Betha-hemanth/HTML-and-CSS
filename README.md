@@ -15,10 +15,15 @@ custom styling, hover states, and active states.
 
 ## 📌 What is inside?
 
-| Page | Focus | Highlights |
+| File | Focus | Highlights |
 | --- | --- | --- |
 | [`buttons.html`](buttons.html) | Button gallery | 10 recreated buttons — YouTube, LinkedIn, GitHub, Amazon, Bootstrap, Uber, Twitter, and more |
 | [`website.html`](website.html) | Amazon product card | Product link, title, price, delivery note, cart button, and buy-now button |
+| [`3DClick.html`](3DClick.html) | 3D button interaction | CSS 3D click/press effect practice |
+| [`margin&padding.html`](margin%26padding.html) | CSS spacing | Practice with margin and padding |
+| [`pagination.html`](pagination.html) | Pagination UI | Pagination layout and styling practice |
+| [`strech.html`](strech.html) | Stretch layout | CSS sizing and layout practice |
+| [`README.md`](README.md) | Documentation | Project overview and practice notes |
 
 ```mermaid
 flowchart LR
@@ -140,6 +145,24 @@ flowchart TB
 | Buy now | `.buynow-button` | Orange `rgb(255,164,28)` fill, pill (15px), 140×30 | Fill → yellow `rgb(255,216,20)` | Fill → brown `rgb(168,119,4)` |
 
 > 💡 **Nice detail:** `Add to Cart` and `Buy now` swap colors on hover — Add to Cart turns orange (matching Buy now's resting color) and vice versa, giving the two buttons a connected, "toggle-like" feel.
+
+---
+
+## 🆕 Additional Practice Pages
+
+### `3DClick.html`
+Practice page focused on creating a 3D-style click/press interaction using HTML and CSS.
+
+### `margin&padding.html`
+Practice page for understanding CSS spacing, including margin and padding.
+
+### `pagination.html`
+Practice page for building and styling pagination controls.
+
+### `strech.html`
+Practice page focused on CSS sizing and stretch/layout behavior.
+
+These pages extend the repository with additional hands-on HTML and CSS practice.
 
 ---
 
