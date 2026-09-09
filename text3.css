@@ -1,0 +1,40 @@
+  p{
+    font-family:Arial;
+    text-align:center;
+
+  }
+  .deals-text{
+    font-size:24px;
+    font-weight:bold;
+    margin-bottom:0px;
+    
+  }
+
+  .sales-text{
+    color:rgba(255, 0, 0, 0.755);
+    line-height:0px;
+    font-style:italic;
+    font-size:15px;  
+    }
+
+    .shopping-text{
+      font-weight:bold;
+      font-size:24px;
+      margin-bottom:0px;
+    }
+
+    .apple-text{
+      margin-top:10px;
+      
+    }
+
+    .under-line{
+      color:rgb(3, 138, 221);
+      
+    }
+
+    .under-line:hover{
+      text-decoration:underline;
+      
+
+    }
