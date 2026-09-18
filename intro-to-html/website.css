@@ -1,0 +1,53 @@
+.amazon-button{
+    background-color: rgb(255, 216, 20);
+    color: rgb(0, 0, 0);
+    border: none;
+    height: 30px;
+    width: 140px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+
+  .amazon-button:hover{
+    background-color: rgb(255, 164, 28);
+  }
+
+  .amazon-button:active{
+    background-color: rgb(168, 119, 4);
+  }
+
+  .buynow-button{
+    background-color: rgb(255, 164, 28);
+    color: rgb(0, 0, 0);
+    border: none;
+    height: 30px;
+    width: 140px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+
+  .buynow-button:hover{
+    background-color: rgb(255, 216, 20);
+  }
+  
+  .buynow-button:active{
+    background-color: rgb(168, 119, 4);
+  }
+
+  .amazon-link{
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: box-shadow 1s;
+  }
+
+  .amazon-link:hover{
+    color: rgb(255, 164, 28);
+  }
+
+  .amazon-link:active{
+    color: rgb(168, 119, 4);
+  }
